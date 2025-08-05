@@ -1,0 +1,4 @@
+/* Minimal custom styles for the app */
+.spinner {
+  @apply w-8 h-8 border-4 border-gray-200 border-t-blue-600 rounded-full animate-spin;
+}
